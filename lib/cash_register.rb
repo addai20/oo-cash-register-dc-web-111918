@@ -17,3 +17,5 @@ class CashRegister
   end
   
 end
+
+cash_reg = CashRegister.new(total)
